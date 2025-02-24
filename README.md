@@ -1,0 +1,2 @@
+POWER_watch功率计PCB工程与嵌入式代码
+主控采用STM32F303CBT6
